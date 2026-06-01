@@ -33,9 +33,10 @@ For a specialized, production-ready forensic tool like this, a **fair and balanc
 - **$2,500 USD one-time flat fee** per commercial product or deployment
 
 ## Author & Contact
-**Keith Dicke** (@KeithDicke207)
-Portland, Maine, USA
+**Keith Dickey**
+Waterville, Maine 04901 USA
 
+X: @KeithDicke207
 **Primary Payment**: Cash App $KeithDickey7
 **Email**: keithdickey207@gmail.com
 
