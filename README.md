@@ -43,14 +43,13 @@ If you use this engine (or any derivative) in any revenue-generating product, se
 
 **Accepted Payment Methods**:
 - **Cash App**: $KeithDickey7 (fastest & preferred)
-- Email / PayPal: keithdickey207@gmail.com
-- Crypto (USDC / ETH) – available on request
+- **Email**: keithdickey207@gmail.com (for invoices and alternative payment arrangements)
 
 **How to Get Licensed & Pay**:
 1. Contact the author **before** launching commercially
 2. Describe your use case
 3. Receive invoice + commercial license
-4. Pay via Cash App ($KeithDickey7) or the email above
+4. Pay via Cash App ($KeithDickey7) or arrange via email
 
 **Important**:
 - This royalty applies to this engine + all forks and derivatives
