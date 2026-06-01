@@ -18,51 +18,50 @@ python document_fraud_detection_engine_v2.py your_document.pdf --output ./report
 
 ## What's a Fair Royalty? (My Recommendation)
 
-For a specialized, production-ready forensic tool like this, a **fair and industry-standard royalty** is:
+For a specialized, production-ready forensic tool like this, a **fair and balanced royalty** is:
 
 - **5% of gross revenue** directly attributable to this engine, **or**
-- **$2,500 USD one-time flat fee** per commercial product/deployment
+- **$2,500 USD one-time flat fee** per commercial product or deployment
 
-This is balanced: attractive for companies to adopt, while properly compensating the creator for the significant engineering work.
+This rate is industry-standard for high-value IP while remaining attractive for adoption.
 
 ## Commercial Royalty Terms
 
-### Free Use (No Payment Needed)
+### Free Use (No Royalty)
 - Personal, hobby, or educational use
 - Academic research and non-profit projects
 - Open-source contributions and forks
-- Internal tools with no revenue generation
+- Internal non-revenue tools
 
 ### Commercial Use (Royalty Required)
-If you use this engine (or derivatives) in any **revenue-generating** product, service, SaaS, or business tool, you must pay a royalty **before** commercial launch.
+If you use this engine (or any derivative) in any revenue-generating product, service, SaaS, or business process, you must pay a royalty **before** commercial deployment.
 
-**Royalty Options** (pick one):
-1. **5% of attributable gross revenue** (ongoing)
-2. **$2,500 one-time flat fee** per product/deployment
-3. Custom rate negotiated with the author
+**Royalty Options** (choose one):
+- **5% of attributable gross revenue** (ongoing)
+- **$2,500 USD one-time flat fee** per product/deployment
+- Custom negotiated rate
 
-**Payment Methods**:
-- Bank transfer / PayPal
-- Crypto (USDC, ETH, BTC) – preferred for speed and low fees
+**Accepted Payment Methods**:
+- **Cash App**: $KeithDickey7 (fastest & preferred)
+- Email / PayPal: keithdickey207@gmail.com
+- Crypto (USDC / ETH) – available on request
 
-**How to Pay & Get Licensed**:
-1. Contact the author **before** going live commercially
-2. Provide details of your use case
+**How to Get Licensed & Pay**:
+1. Contact the author **before** launching commercially
+2. Describe your use case
 3. Receive invoice + commercial license
-4. Pay via your preferred method
+4. Pay via Cash App ($KeithDickey7) or the email above
 
-**Contact**:
-- X (Twitter): @KeithDicke207
-- Email: [your-email@domain.com]   ← *Please reply with your email so I can add it*
-- Crypto wallet: [your-wallet-address]   ← *Reply with your preferred wallet address*
-
-**Important Notes**:
+**Important**:
 - This royalty applies to this engine + all forks and derivatives
 - Non-payment for commercial use violates the license
 - Rates may be updated with 30 days notice
 
-## Author
-Keith Dicke (@KeithDicke207)
+## Author & Contact
+**Keith Dicke** (@KeithDicke207)
 Portland, Maine, USA
+
+**Primary Payment**: Cash App $KeithDickey7
+**Email**: keithdickey207@gmail.com
 
 All commercial rights reserved.
