@@ -13,8 +13,17 @@ Detects advanced forgery vectors:
 
 ```bash
 pip install -r requirements.txt
+python example_usage.py your_document.pdf
+```
+
+Or run the full engine directly:
+```bash
 python document_fraud_detection_engine_v2.py your_document.pdf --output ./report
 ```
+
+## Example Script
+
+A ready-to-use `example_usage.py` is included for easy testing. Just run it with any image or PDF.
 
 ## What's a Fair Royalty? (My Recommendation)
 
