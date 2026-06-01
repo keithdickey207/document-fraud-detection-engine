@@ -9,21 +9,21 @@ Detects advanced forgery vectors:
 - Error Level Analysis (ELA) for digital edits
 - **Copy-Move forgery detection** (cloned signatures, stamps, numbers, fields)
 
-## Quick Start
+## Quick Start (Super Easy)
 
 ```bash
+# 1. Clone the repo
+git clone https://github.com/keithdickey207/document-fraud-detection-engine.git
+cd document-fraud-detection-engine
+
+# 2. Install dependencies
 pip install -r requirements.txt
-python example_usage.py your_document.pdf
+
+# 3. Run the example (no file needed - it creates a test document!)
+python example_usage.py
 ```
 
-Or run the full engine directly:
-```bash
-python document_fraud_detection_engine_v2.py your_document.pdf --output ./report
-```
-
-## Example Script
-
-A ready-to-use `example_usage.py` is included for easy testing. Just run it with any image or PDF.
+That's it! The script will automatically create a sample tampered invoice and analyze it.
 
 ## What's a Fair Royalty? (My Recommendation)
 
