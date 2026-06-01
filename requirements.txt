@@ -1,0 +1,7 @@
+opencv-python-headless>=4.10
+numpy>=1.26
+pillow>=10.4
+pypdf>=5.0
+pdf2image>=1.17
+scipy>=1.13
+matplotlib>=3.9
