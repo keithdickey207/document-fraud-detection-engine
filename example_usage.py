@@ -2,15 +2,13 @@
 """
 Simple Example Usage for Document Fraud Detection Engine v2
 
-This script now automatically creates a test document if you don't provide one
-and can generate a professional PDF report.
+This script now automatically creates a test document if you don't provide one.
 """
 
 import sys
 import os
 from PIL import Image, ImageDraw, ImageFont
 from document_fraud_detection_engine_v2 import DocumentFraudDetectorV2
-from generate_pdf_report import create_pdf_report
 
 
 def create_test_document():
@@ -70,15 +68,8 @@ def main():
     for module, score in result['breakdown'].items():
         print(f"  {module:22} : {score:6.1f}")
     print("="*65)
-
-    # Generate nice PDF report
-    report_json = f"./forensics_report/{Path(file_path).stem}_fraud_report_v2.json"
-    if os.path.exists(report_json):
-        create_pdf_report(report_json)
-
-    print("\nFull report + visualizations + PDF saved in: ./forensics_report/")
+    print("\nFull report + visualizations saved in: ./forensics_report/")
 
 
 if __name__ == "__main__":
-    from pathlib import Path
     main()
