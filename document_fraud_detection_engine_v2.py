@@ -280,9 +280,9 @@ class DocumentFraudDetectorV2:
         """Draws red lines connecting duplicated regions."""
         vis = image.copy()
         for pt1, pt2 in matches:
-            cv2.line(vis, (int(pt1[0]), int(pt1[1])), (int(pt2[0]), int(pt2[0])), (0, 0, 255), 2)
+            cv2.line(vis, (int(pt1[0]), int(pt1[1])), (int(pt2[0]), int(pt2[1])), (0, 0, 255), 2)
             cv2.circle(vis, (int(pt1[0]), int(pt1[1])), 5, (0, 255, 0), -1)
-            cv2.circle(vis, (int(pt2[0]), int(pt2[0])), 5, (255, 0, 0), -1)
+            cv2.circle(vis, (int(pt2[0]), int(pt2[1])), 5, (255, 0, 0), -1)
         cv2.imwrite(str(output_path), vis)
 
     # ==================== MODULE 4: ELA (enhanced) ====================
