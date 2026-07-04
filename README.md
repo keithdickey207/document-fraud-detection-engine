@@ -1,5 +1,7 @@
 # 🔍 Document Fraud Detection Engine v2
 
+**Anchor:** `44.5520°N, 69.6317°W` (Waterville, ME 04901)
+
 **Enterprise-grade, fully local-first document forensics system**
 
 Detects advanced forgery vectors:
@@ -85,6 +87,32 @@ If you use this engine (or any derivative) in any revenue-generating product, se
 - This royalty applies to this engine + all forks and derivatives
 - Non-payment for commercial use violates the license
 - Rates may be updated with 30 days notice
+
+## Sovereign Stack
+
+| Project | Role |
+|---------|------|
+| **[Aether Core](https://github.com/keithdickey207/aether)** | Brain hub — USD-4 protocol, RF lab, medical, Godot 4 bridge |
+| **[District 04901 Grid](https://github.com/keithdickey207/District_04901_Grid)** | Spatial C2 — React VM canvas, UDP/WS telemetry mesh |
+| **[dickey-sovereign-core](https://github.com/keithdickey207/dickey-sovereign-core)** | Fusion + tactile physics + CTI integration |
+| **[waterville-ar](https://github.com/keithdickey207/waterville-ar)** | Godot city builder — 78 building footprints |
+| **[04901-digital-twin](https://github.com/keithdickey207/04901-digital-twin)** | Godot digital twin — ram ingest lattice |
+| **[04901-alchemical-chamber](https://github.com/keithdickey207/04901-alchemical-chamber)** | Godot Newton chymical lab node |
+| **[chronosat](https://github.com/keithdickey207/chronosat)** | Orbital daemon + historical Landsat viewer |
+| **[04901-sentinel](https://github.com/keithdickey207/04901-sentinel)** | NORAD tracker + bug bounty hunter |
+| **[04901_Taxi_Dispatch](https://github.com/keithdickey207/04901_Taxi_Dispatch)** | Local-first taxi dispatch + fleet sim |
+| **document-fraud-detection-engine** (this repo) | Sovereign document forensics — offline fraud detection |
+| **[secure-self-healing-orchestrator](https://github.com/keithdickey207/secure-self-healing-orchestrator)** | Zero-trust LLM self-repair + FBI OSINT |
+| **[newtons-alchemical-lab](https://github.com/keithdickey207/newtons-alchemical-lab)** | Historical chymistry CLI explorer |
+| **[sovereign-sync](https://github.com/keithdickey207/sovereign-sync)** | Mesh glue — Syncthing, Tailscale, worktrees |
+| **[dotfiles](https://github.com/keithdickey207/dotfiles)** | Multi-device bootstrap shell + env |
+| **[goodperson](https://github.com/keithdickey207/goodperson)** | Good Person Protocol — daily practice CLI |
+
+Sync mesh: `~/SOVEREIGN_SYNC_QUICKSTART.md` · [sovereign-sync](https://github.com/keithdickey207/sovereign-sync)
+
+## License
+
+MIT License with commercial royalty addendum — see [LICENSE](LICENSE). Copyright (c) 2026 Keith Dickey.
 
 ## Author & Contact
 **Keith Alan Dickey** ([@keithdickey207](https://github.com/keithdickey207))  
