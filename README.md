@@ -25,6 +25,27 @@ python example_usage.py
 
 That's it! The script will automatically create a sample tampered invoice and analyze it.
 
+### Analyze your own document
+
+```bash
+python example_usage.py /path/to/suspicious_invoice.pdf
+# Reports saved to ./forensics_report/
+```
+
+> **Penguin / ChromeOS:** Use a venv — `python3 -m venv .venv && .venv/bin/pip install -r requirements.txt`
+
+Part of the **WQSH / Dickey.OS** sovereign stack — fully offline, no cloud APIs. Complements [dickey-sovereign-core](https://github.com/keithdickey207/dickey-sovereign-core) CTI and threat-intel pipelines for document verification workflows.
+
+## Detection Modules
+
+| Module | Method |
+|--------|--------|
+| Metadata | EXIF / structural tampering |
+| Layout | Baseline tilt, edge anomalies |
+| Moiré / Halftone | Radial-frequency profiling (re-photographed prints) |
+| ELA | Error Level Analysis (digital edits) |
+| Copy-Move | Cloned signatures, stamps, fields |
+
 ## What's a Fair Royalty? (My Recommendation)
 
 For a specialized, production-ready forensic tool like this, a **fair and balanced royalty** is:
@@ -66,8 +87,8 @@ If you use this engine (or any derivative) in any revenue-generating product, se
 - Rates may be updated with 30 days notice
 
 ## Author & Contact
-**Keith Dicke** (@KeithDicke207)
-Portland, Maine, USA
+**Keith Alan Dickey** ([@keithdickey207](https://github.com/keithdickey207))  
+Waterville Software Development Services — Waterville, ME 04901
 
 **Primary Payment**: Cash App $KeithDickey7
 **Email**: keithdickey207@gmail.com
